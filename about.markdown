@@ -1,14 +1,16 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About me
+subtitle: Why you'd want to go on a date with me
 ---
 
-Hello world! And hello you!
+My name is Inigo Montoya. I have the following qualities:
 
-This is Quantum Field and String Theory group at KAIST, Daejeon.
-I have some cool [projects](/projects) you might want to check out.
+- I rock a great mustache
+- I'm extremely loyal to my family
 
-![Coffee cup](/images/coffee.jpg)
+What else do you need?
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### My story
+
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
